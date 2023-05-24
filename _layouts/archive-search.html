@@ -62,6 +62,7 @@ let input = document.getElementById("search__input");
 let btn = document.getElementById("search__btn");
 // Event listener for the input element
 input.addEventListener("input", function() {
+  console.log("User typed:", input.value);
   let s = input.value.toLowerCase();
   let list = document.getElementsByClassName("list__item");
   for(let i=0;i<list.length;i++){
