@@ -62,7 +62,9 @@ layout: default
 let input = document.getElementById("search__input");
 let btn = document.getElementById("search__btn");
 // Event listener for the input element
+console.log("fuera");
 input.onkeypress=(event)=>{
+  console.log("entro", event);
   let s = input.value.toLowerCase();
   let list = document.getElementsByClassName("list__item");
   if(event.code === 'Enter'){
