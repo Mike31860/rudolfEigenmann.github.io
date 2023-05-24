@@ -57,7 +57,27 @@ layout: default
     </div>
   </div>
 
+
+<script src="../BigTec/bibtex-js/src/bibtex-js.js"></script>
+<div id="bibliography"></div>
 <script>
+  // Path to your BibTeX file
+  const bibtexFilePath = "references.bib";
+
+  // Fetch the BibTeX file
+  fetch(bibtexFilePath)
+    .then((response) => response.text())
+    .then((bibData) => {
+      const bibliography = new BibtexParser().parse(bibData);
+      const html = bibliography.toHTML();
+      document.getElementById("bibliography").innerHTML = html;
+    })
+    .catch((error) => {
+      console.error("Error loading BibTeX file:", error);
+    });
+</script>
+
+<!-- <script>
 
 let input = document.getElementById("search__input");
 let btn = document.getElementById("search__btn");
@@ -79,4 +99,4 @@ btn.onclick=function(){
       }
   }
 }
-</script>
+</script> -->
