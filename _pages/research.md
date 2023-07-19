@@ -6,6 +6,19 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
+
+<h3>Machine Learnig Driven Program Optimization</h3>
+<img src="../images/research/AI.jpg" width="300" 
+     height="300" alt="AI">
+
+Achieving high performance on today's processors relies on different compiler optimizations. Determine what optimizations to apply and where depends on the program and the target platform. Additionally, the different sets of optimizations will create a vast optimization space, where each of the optimizations can provide good performance individually, and when combined they could increase or degrade performance. In other words, choosing the best set of optimizations will maximize the performance of a target application.  
+
+Hence, it is essential to evaluate different combinations of optimizations and find the optimal combination.
+
+<b>Research Staff: Miguel Rosas</b>
+
+---------------------------------------------------------------------------------------------------
+
 <h3>DARWIN -- Delaware Advanced Research Workforce and Innovation Network</h3>
 <img src="../images/research/DARWIN.jpg" width="300" 
      height="300" alt="DARWIN">
