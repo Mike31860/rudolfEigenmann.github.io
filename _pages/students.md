@@ -58,15 +58,15 @@ header:
 <div class="grid-container">
  <div class="grid-item">
  <ul> 
-  <li>Aurangzeb</li>
-  <li>Hansang Bae</li>
-  <li>	Fahed Jubair</li>
-  <li>Okwan Kwon</li>
-  <li>Okwan Kwon</li>
-  <li>Amit Sabne</li>
-  <li>Putt Sakdhnagool</li>
-  <li>Zhengxiao (Tony) Li</li>
-  <li>TsungTai Yeh</li>   
+  <li>Aurangzeb <strong>Purdue University</strong></li>
+  <li>Hansang Bae <strong>Purdue University</strong></li>
+  <li>	Fahed Jubair <strong>Purdue University</strong></li>
+  <li>Okwan Kwon <strong>Purdue University</strong></li>
+  <li>Okwan Kwon <strong>Purdue University</strong></li>
+  <li>Amit Sabne <strong>Purdue University</strong></li>
+  <li>Putt Sakdhnagool <strong>Purdue University</strong></li>
+  <li>Zhengxiao (Tony) Li <strong>Purdue University</strong></li>
+  <li>TsungTai Yeh <strong>Purdue University</strong></li>   
 	</ul>
  </div>
 </div>
