@@ -121,7 +121,9 @@ layout: default
         <span class="if title">
            <script>
               const referenciaElemento = document.querySelector('.bibtex_template li');
-             console.log(referenciaElemento);
+              const title = referenciaElemento.querySelector('.title').textContent.trim();
+              const url =  referenciaElemento.querySelector('.url').textContent.trim();
+             console.log("El element", title, url);
            </script>
           <a class="bibtexVar" href="https://scholar.google.com/citations?user=pM3DuC0AAAAJ&hl=en" extra="BIBTEXKEY">
               <span style="text-decoration: underline;" class="title"></span>,
