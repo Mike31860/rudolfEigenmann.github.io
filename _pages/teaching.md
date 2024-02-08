@@ -5,7 +5,7 @@ title: "Courses (Being) Taught"
 
 ## Principles of Parallel Computer Architectures
 - CPEG/ELEG 652: (Spring 2023, 2024)
-    - [Syllabus](https://docs.google.com/document/d/1mg9lawVGg5GVkvfQyuIXYj3O5T0m-Yf46NYKHRdToBc/edit#heading=h.etiqjkv2wi97)
+    - [Syllabus](https://docs.google.com/document/d/1L0vuEytoBtpijLnBcjHWcND1xKKD-tpPLGbwehKIlaA/edit#heading=h.etiqjkv2wi97)
 
 ## Computational & Data-Intensive Research Platforms & Applications
 - CPEG 467/667: (Fall 2019, Fall 2020)
