@@ -67,7 +67,7 @@ The Cetus project is a collaboration with Purdue University. NSF awards:
 <b>Collaborators: </b> <a href="https://engineering.purdue.edu/~smidkiff/">Samuel Midkiff</a>, Milind Kulkarni.
 
 ----------------------------------------------------------------------------------------------------
-<h3>Cetus Source-to-Source Compiler Infrastructure</h3>
+<h3>COMPILE-TIME AUTOMATIC PARALLELIZATION OF SUBSCRIPTED SUBSCRIPTS USING RECURRENCE ANALYSIS</h3>
 <img src="../images/research/programAnalysis.jpeg" width="300" 
      height="300" alt="cetus">
  
@@ -79,12 +79,11 @@ In this project we develop novel compiler analysis techniques that gather inform
 
 ----------------------------------------------------------------------------------------------------
 
-<h3>Interactive Parallelization Tools</h3>
+<h3>Integrating iCetus (Interactive Cetus) with the CaRV (Capture, Replay & Validate) Tool</h3>
 <img src="../images/research/interactive.png" width="300" 
      height="300" alt="cetus">
  
-A tool is being developed that allows users to apply parallelization in a semi-automatic way. Experts can steer the parallelization process through tool menus and program directives. Non-experts can direct the tool to automatically parallelize parts of or the full program.
-An initial prototype of an interactive parallelizer is part of the current Cetus release.
+After developing iCetus, designed to facilitate the use of auto-parallelization techniques and leverage analysis results from Cetus—an ANSI C source-to-source auto-parallelizer—and applying manual parallelization to the code, we are integrating iCetus capabilities with the CaRV tool. CaRV expedites experimentation on code sections and validates the optimizations applied to those sections. The integration project, while facilitating the application of various types of optimizations to the code, aims to expedite the optimization process and ensure the validation of applied optimizations.
 
 <b>Research Staff: </b> <a href="https://akshayud.me">Parinaz Barakhshan</a>
 
