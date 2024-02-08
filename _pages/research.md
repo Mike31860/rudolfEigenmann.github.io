@@ -26,10 +26,6 @@ Hence, it is essential to evaluate different combinations of optimizations and f
 DARWIN is a compute and storage resource supporting computational and data-intensive research at the University of Delaware and in the Delaware Region. DARWIN is funded by an NSF MRI (Major Research Instrumentation) grant.
 For more information, see the <a href="https://dsi.udel.edu/core/computational-resources/darwin">DARWIN project page</a>
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
-
 ---------------------------------------------------------------------------------------------------
 <h3>The Xpert Network --A Peer Network for the exchange of computational best practices and support environments</h3>
 
