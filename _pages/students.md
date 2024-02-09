@@ -45,11 +45,9 @@ header:
 <div class="grid-container">
  <div class="grid-item">
  <ul>
-  
-  <li>Akshay Bhosale. For more information, see the <a href="https://subscripted-subscript.akshayud.me/">Personal WebSite</a></li>
   <li>Parinaz Barakhshan . For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>     
   <li>Miguel Rosas. For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>           
-	<li>Miguel Torres . For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>     
+  <li>Miguel Torres . For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>     
 	</ul>
  </div>
 </div>
@@ -58,10 +56,10 @@ header:
 <div class="grid-container">
  <div class="grid-item">
  <ul> 
+  <li>Akshay Bhosale - <strong>University of Delaware</strong></li>
   <li>Aurangzeb - <strong>Purdue University</strong></li>
   <li>Hansang Bae - <strong>Purdue University</strong></li>
   <li>	Fahed Jubair - <strong>Purdue University</strong></li>
-  <li>Okwan Kwon - <strong>Purdue University</strong></li>
   <li>Okwan Kwon - <strong>Purdue University</strong></li>
   <li>Amit Sabne - <strong>Purdue University</strong></li>
   <li>Putt Sakdhnagool - <strong>Purdue University</strong></li>
