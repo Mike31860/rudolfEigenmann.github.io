@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>.bib File Display</title>
+  <style>
+    pre {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+  </style>
+</head>
+<body>
+  <pre id="bib-content"></pre>
+
+<script>
+    // JavaScript code to fetch and display the .bib file content
+    fetch('references.bib')
+      .then(response => response.text())
+      .then(content => {
+        const bibContentElement = document.getElementById('bib-content');
+        bibContentElement.textContent = content;
+      })
+      .catch(error => {
+        console.error('Error fetching .bib file:', error);
+      });
+  </script>
+</body>
+</html>
