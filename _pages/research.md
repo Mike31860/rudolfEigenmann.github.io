@@ -7,7 +7,7 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-<h3>Machine Learnig Driven Program Optimization</h3>
+<h3>Machine Learning Driven Program Optimization</h3>
 <img src="../images/research/AI.jpg" width="300" 
      height="300" alt="AI">
 
